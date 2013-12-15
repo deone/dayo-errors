@@ -1,0 +1,10 @@
+{
+    "name": "dayo-errors",
+    "description": "A pattern to display application errors to the user",
+    "homepage": "https://github.com/deone/dayo-errors",
+    "author": "Dayo Osikoya <alwaysdeone@gmail.com>",
+    "version": "0.1.0",
+    "git": "https://github.com/deone/dayo-errors.git",
+    "packages": {
+    }
+}
